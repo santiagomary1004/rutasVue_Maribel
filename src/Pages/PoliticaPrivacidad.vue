@@ -2,7 +2,6 @@
 import logo from '../Pages/imagenes/logo.png'
 
 </script>
-
 <template>
     <head>
     <meta charset="UTF-8">

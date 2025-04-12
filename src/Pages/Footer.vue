@@ -3,7 +3,6 @@ import PoliticaPrivacidad from '../Pages/PoliticaPrivacidad.vue';
 const components ={
     PoliticaPrivacidad,
 };
-
 // export default {
 //     data (){
 //          return{
