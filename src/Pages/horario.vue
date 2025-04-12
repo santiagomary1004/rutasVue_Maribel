@@ -123,33 +123,5 @@ tr{
 } 
 </style>
 
-/* h3{
-    color:white;
-    background-color: #82bda7;
-    border-radius: 25px;
-    padding: 20px;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-} */
-/* thead{
-    list-style-type: none;
-    padding: 0px;
-} */
-/* th{
-    color:white;
-    background-color: #71927e;
-    border-radius: 30px;
-    padding:15px;
-    margin: 10px;
-    text-align:justify;
-} */
-/* td{
-    color:black;
-    background-color: #a6cab4;
-    border-radius: 35px;
-    padding:10px;
-    margin: 10px;
-    text-align:center;
-} */
 
  
