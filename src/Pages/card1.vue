@@ -70,6 +70,4 @@
       </div>
     </div>
     <!-- Cierre del segundo wow -->
-
-
    </template>

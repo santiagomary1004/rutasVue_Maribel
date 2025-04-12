@@ -42,4 +42,3 @@
  </template>
  <style scoped>
  </style>
- 
