@@ -17,7 +17,6 @@
   <div>
     <img src="https://st3.depositphotos.com/3687485/14951/v/450/depositphotos_149512238-stock-illustration-high-quality-solar-system-planet.jpg" alt="10px" width="300px" height="200px">
   </div>
-
   <p>
     <br>En nuestro sistema solar, existen ocho planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, 
     Urano y Neptuno, en orden de cercanía al sol.</br>
