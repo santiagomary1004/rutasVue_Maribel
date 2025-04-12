@@ -22,7 +22,6 @@ export default{
         }
     }
 }
-
 </script>
 <template>
    <div class="container mt-5">
